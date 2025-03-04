@@ -2,6 +2,8 @@
 
 ## A site created for recording on NFC tags, the site can be used for jokes or pranks
 
+[На русском](https://github.com/enexis1337/nfc-prank/blob/main/rureadme.md#nfc-prank)
+
 There are 8 sounds to choose from:
 - https://enexis1337.github.io/nfc-prank/page1.html - pig squeal
 - https://enexis1337.github.io/nfc-prank/page2.html - fart sound
